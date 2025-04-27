@@ -1,5 +1,5 @@
 class Nextpnr < Formula
-  desc "Portable FPGA place and route tool"
+  desc "Next generation FPGA place and route tool"
   homepage "https://github.com/YosysHQ/nextpnr"
   url "https://github.com/YosysHQ/nextpnr.git", tag: "nextpnr-0.8"
   license "ISC"
